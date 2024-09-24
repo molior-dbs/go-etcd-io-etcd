@@ -1,4 +1,4 @@
-Source: golang-github-etcd-io-etcd
+Source: go-etcd-io-etcd
 Maintainer: Debian Go Packaging Team <team+pkg-go@tracker.debian.org>
 Uploaders: TODO <TODO>
 Section: golang
@@ -15,7 +15,7 @@ Homepage: https://github.com/etcd-io/etcd
 Rules-Requires-Root: no
 XS-Go-Import-Path: github.com/etcd-io/etcd
 
-Package: golang-github-etcd-io-etcd-dev
+Package: go-etcd-io-etcd-dev
 Architecture: all
 Multi-Arch: foreign
 Depends: golang-etcd-server-dev,

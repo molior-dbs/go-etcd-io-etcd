@@ -1,4 +1,4 @@
-golang-github-etcd-io-etcd (3.5.16-1) UNRELEASED; urgency=medium
+go-etcd-io-etcd (3.5.16-1) UNRELEASED; urgency=medium
 
   * Debianize
 
