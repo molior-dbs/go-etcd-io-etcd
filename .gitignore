@@ -21,3 +21,6 @@ hack/tls-setup/certs
 *.tmp
 *.bak
 .gobincache/
+
+/.pc/
+/_build/
